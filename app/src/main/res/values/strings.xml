@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SAIN</string>
+    <string name="south_african_id_number">South African ID Number</string>
+    <string name="enter_the_south_african_id">Enter the south african id</string>
+    <string name="submit">SUBMIT</string>
+    <string name="result">Result:</string>
+</resources>
